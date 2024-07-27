@@ -38,7 +38,6 @@ GroupAdd, FFXIV, ahk_exe ffxiv_dx11.exe
     !3:: 
     !4:: 
     !5::
-    !5:: 
     !6:: 
     !7:: 
     !e::
