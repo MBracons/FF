@@ -3,7 +3,7 @@
     Sleep, % rand
 }
 
-GroupAdd, FFXIV, ahk_exe ffxiv_dx11.exe  ; Asegúrate de que el nombre del ejecutable es correcto.
+GroupAdd, FFXIV, ahk_exe ffxiv_dx11.exe
 
 #IfWinActive ahk_group FFXIV
 {
